@@ -7,7 +7,7 @@ function About() {
       <div style={{ padding: "20px" }}>
         <h1>About Me</h1>
         <p>
-          This is filler text.
+          Recent college graduate with a degree in Information Technology and a minor in Information Security. Passion for technology, cybersecurity, and photography/videography. Love the outdoors and hiking. Played the trumpet for 9 years competitively and am an Eagle Scout.
         </p>
       </div>
     </Layout>

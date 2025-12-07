@@ -1,14 +1,14 @@
 ---
-id: getting-started
-title: Getting Started
-description: Getting started with fill in the blank...
-slug: /getting-started
+id: resources
+title: Resources
+description: Resources
+slug: /resources
 sidebar_position: 1
 ---
 
-# Getting Started
+# Resources
 
-### Welcome to the Docs Folder 📂
+### Welcome to the Resources Folder
 
 Welcome! This folder is your go-to resource for everything related to this project. Inside, you’ll find guides, instructions, reference materials, and helpful notes designed to make your experience smoother and more productive.
 

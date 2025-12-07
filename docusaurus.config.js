@@ -111,25 +111,33 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Getting Started',
+                to: '/docs/getting-started',
+              },
+              {
+                label: 'Resources',
+                to: '/docs/resources',
+              },
+              {
+                label: 'Blog',
+                to: '/blog',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Links',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'YouTube Channel',
+                href: 'https://youtube.com/@trumpetcentral',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/trumpet_central',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Linktree',
+                href: 'https://linktr.ee/trumpetcentral',
               },
             ],
           },
@@ -137,8 +145,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'About Me',
+                to: '/about',
               },
               {
                 label: 'GitHub',
@@ -147,7 +155,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Nathan Patrick - Trumpet Central.`,
+        copyright: `Nathan Patrick - Trumpet Central - ${new Date().getFullYear()}`,
       },
       prism: {
         theme: prismThemes.github,
