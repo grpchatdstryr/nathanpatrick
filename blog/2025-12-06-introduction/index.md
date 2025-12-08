@@ -2,7 +2,7 @@
 slug: introduction
 title: Introduction
 authors: [nathanpatrick]
-tags: [docusaurus]
+tags: [trumpet]
 ---
 
 ### Welcome to the Blog! 🎺

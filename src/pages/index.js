@@ -32,7 +32,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Trumpet Central Home ${siteConfig.title}`}
+      title={`Home `}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
