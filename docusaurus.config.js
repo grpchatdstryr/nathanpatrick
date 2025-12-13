@@ -66,6 +66,8 @@ const config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -83,10 +85,10 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Trumpet Central',
+        title: '',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo-nobg.png',
+          src: 'img/banner.png',
         },
         items: [
           {
