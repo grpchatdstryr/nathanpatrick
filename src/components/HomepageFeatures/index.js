@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Trumpet Website',
+    title: 'Learn the Trumpet',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Website dedicated to learning, exploring, and enjoying the art of the trumpet.
+        Website dedicated to helping you get started with the trumpet.
       </>
     ),
   },
   {
-    title: 'Under Development',
+    title: 'Inspire Passion',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        This site is currently a work in progress as new features, pages, and ideas are being added.
+       Goal to motivate and become passionate about the instrument, not making it burdensome.
       </>
     ),
   },
   {
-    title: 'Fun Personal Project',
+    title: 'Free of Charge',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        A simple passion project created just for fun, experimenting with design, music, and web dev.
+        A passion project, built to assist fellow trumpet players and have fun, not to make money.
       </>
     ),
   },

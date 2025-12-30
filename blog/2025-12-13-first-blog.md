@@ -1,6 +1,6 @@
 ---
 slug: new-blog
-title: New Blog Page
+title: Brand New Blog Page
 authors: [nathanpatrick]
 tags: [trumpet]
 ---
