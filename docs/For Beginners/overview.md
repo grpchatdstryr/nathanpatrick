@@ -1,19 +1,14 @@
 ---
-id: overview
-title: Overview
-description: This is an overview of what to cover
-slug: /overview
-sidebar_label: "General Overview"
-sidebar_position: 1
+id: how-to-play-the-trumpet
+title: How To Play The Trumpet
+description: Learn to play the trumpet
+slug: /how-to-play-the-trumpet
+sidebar_label: "How To Play The Trumpet"
+sidebar_position: 2
 ---
-
+# How To Play The Trumpet
 
 ### What to Cover:
-
-:::tip[Please Note]
-This page is under development. Please check back later.
-:::
-
 
 - Overview: Talk about how I'm getting back into the trumpet after like 4 years
 - Getting Started

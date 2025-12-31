@@ -1,14 +1,18 @@
 ---
 id: getting-started
-title: The Beginning
-description: Getting started with fill in the blank...
+title: Getting Started
+description: Getting started with the trumpet!
 slug: /getting-started
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# The Beginning
+# Getting Started
 
-### Getting started with the trumpet
+:::tip[Please Note]
+This page is under development. Please check back later.
+:::
+
+
 
 This is a page all about getting started with the trumpet.
 
