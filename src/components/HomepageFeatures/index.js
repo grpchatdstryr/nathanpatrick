@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Learn the Trumpet',
+    title: 'Personal Website',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Inspire Passion',
+    title: 'Blog Site',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Free of Charge',
+    title: 'Other Links',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
