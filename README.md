@@ -1,11 +1,7 @@
-### Trumpet Central Website
+### Nathan Patrick Website
 
-Passion project website dedicated to learning, exploring, and enjoying the art of the trumpet.
+Personal professional website based on [other website](https://trumpetcentral.org) in the works.
+
+Technically version 3 of a personal website, [version 1](https://nathanpatrick.net) and [version 2](https://nathanpatrick.org) can be found in their respective links. 
 
 More coming soon...
-
-https://trumpetcentral.org
-
-![Image of website homescreen](/static/img/homepage.png)
-
-*Image of homepage*
