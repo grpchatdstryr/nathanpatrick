@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://trumpetcentral.org',
+  url: 'https://nathanpatrick.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -28,7 +28,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'grpchatdstryr', // Usually your GitHub org/user name.
-  projectName: 'trumpetcentral', // Usually your repo name.
+  projectName: 'nathanpatrick', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
-          //  'https://github.com/grpchatdstryr/trumpetcentral/',
+          //  'https://github.com/grpchatdstryr/nathanpatrick/',
         },
         blog: {
           showReadingTime: true,
@@ -61,7 +61,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
-          //  'https://github.com/grpchatdstryr/trumpetcentral/',
+          //  'https://github.com/grpchatdstryr/nathanpatrick/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -100,7 +100,7 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           { to: "about", label: "About", position: "left" },
           {
-            href: 'https://github.com/grpchatdstryr/trumpetcentral',
+            href: 'https://github.com/grpchatdstryr/nathanpatrick',
             label: 'GitHub',
             position: 'right',
           },
@@ -110,36 +110,40 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Pages',
             items: [
               {
-                label: 'Getting Started',
-                to: '/docs/welcome',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/about-nathan-patrick/',
               },
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'GitHub',
+                href: 'https://github.com/grpchatdstryr',
               },
-                            {
-                label: 'Release Notes',
-                to: '/release-notes',
+              {
+                label: 'Linktree',
+                href: 'https://linktr.ee/nathanpatrick',
               },
             ],
           },
           {
-            title: 'Links',
+            title: 'Projects',
             items: [
               {
-                label: 'YouTube Channel',
-                href: 'https://youtube.com/@trumpetcentral',
+                label: 'Trumpet Central',
+                href: 'https://trumpetcentral.org/',
               },
               {
-                label: 'Instagram',
-                href: 'https://www.instagram.com/trumpet_central',
+                label: 'Website Source Code',
+                href: 'https://github.com/grpchatdstryr/nathanpatrick/',
               },
               {
-                label: 'Linktree',
-                href: 'https://linktr.ee/trumpetcentral',
+                label: 'Status Tracker',
+                href: 'https://status.nathanpatrick.net/',
+              },
+              {
+                label: 'Capstone Website',
+                href: 'https://capstone.nathanpatrick.net/',
               },
             ],
           },
@@ -147,16 +151,20 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'About Me',
-                to: '/about',
+                label: 'Jarquavius Quankledankle',
+                href: 'https://linktr.ee/jquank/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/grpchatdstryr/trumpetcentral',
+                label: 'Photography Instagram',
+                href: 'https://instagram/natep-media/',
               },
               {
-                label: 'Nerd Stuff',
-                href: '/tech-stuff',
+                label: 'Website V2',
+                href: 'https://nathanpatrick.org/',
+              },
+              {
+                label: 'Website V1',
+                href: 'https://nathanpatrick.net/',
               },
             ],
           },
