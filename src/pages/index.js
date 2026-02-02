@@ -19,8 +19,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://www.youtube.com/@trumpetcentral"> 
-            YouTube Channel
+            to="https://linktr.ee/nathanpatrick"> 
+            My Links
           </Link>
         </div>
       </div>

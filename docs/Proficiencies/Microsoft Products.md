@@ -1,3 +1,11 @@
+---
+id: microsoft
+title: Microsoft
+description: My knowlegde of Microsoft products
+slug: /microsoft
+sidebar_position: 2
+---
+
 # Microsoft Products
 Overview of the Microsoft products and services I’ve worked with. Most of this comes from hands-on labs, real deployments, coursework, and certifications.
 

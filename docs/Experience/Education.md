@@ -1,5 +1,12 @@
-# Education
-My Education Journey...
+---
+id: education
+title: Education
+description: My education journey 
+slug: /education
+sidebar_position: 0
+---
+
+# My Education
 
 ### College Education
 B.S - **Information Technology: Data Networking and Security**  

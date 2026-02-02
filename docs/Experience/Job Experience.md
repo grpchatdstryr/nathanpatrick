@@ -1,4 +1,12 @@
-# Industry Experience
+---
+id: job-experience
+title: Job Experience
+description: My job experience
+slug: /job-experience
+sidebar_position: 2
+---
+
+# My Job Experience
 Real world experience. 
 
 

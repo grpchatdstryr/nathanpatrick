@@ -1,3 +1,11 @@
+---
+id: certications
+title: Certifications
+description: Certifications I have obtained
+slug: /certifications
+sidebar_position: 1
+---
+
 # Certifications
 *A list of all the industry certifications I have obtained.*
 

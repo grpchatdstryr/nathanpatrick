@@ -15,6 +15,8 @@ This is a general overview of my Homelab setup.
 * 40 GB RAM
 * 320 GB of Storage
 
+<!-- truncate -->
+
 ##### GL-iNet - GL-AXT1800
 * Travel Router
 * OpenWRT

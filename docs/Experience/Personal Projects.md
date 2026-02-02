@@ -1,3 +1,11 @@
+---
+id: personal-projects
+title: Personal Projects
+description: All my personal projects
+slug: /personal-projects
+sidebar_position: 3
+---
+
 # Personal Projects
 Part of how I learn and stay up to date is through personal projects. I prefer this learning method to reading text books, watch a professor yap through PowerPoint, etc... I also happen to really enjoy working on something that gives me a cool final outcome. So here is a list of various personal projects I have worked on. 
 

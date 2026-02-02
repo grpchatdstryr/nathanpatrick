@@ -1,5 +1,12 @@
-# Volunteer Work
-Service to the community and more. 
+---
+id: volunteer-work
+title: Volunteer Work
+description: My volunteer work
+slug: /volunteer-work
+sidebar_position: 4
+---
+
+# My Volunteer Work
 
 ### AI Operator - Next Generation for Christ 
 [Next Generation for Christ Website](https://www.nextgenerationforchrist.com/) - Summer 2024

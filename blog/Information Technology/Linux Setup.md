@@ -6,8 +6,11 @@ tags:
  - linux
  - fedora
 ---
+
 ## My Linux Setup
 Hey! Welcome to my Linux setup guide I have used every day for over 6 months. This should provide everything you need to get a fully working setup! I personally use Fedora because it has been reliable, works especially well with ThinkPads (I have an X1 Carbon Gen 9 in case you are curious). Also I wanted to try something different since I have been using Debian-based Distros for a while. 
+
+<!-- truncate -->
 
 One thing to note if you decide to follow along is that some things may not work exactly with other Distros or computers. However, if something doesn't end up working properly, there is likely to be a guide online.
 

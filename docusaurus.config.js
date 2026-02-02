@@ -95,7 +95,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Learning',
+            label: 'Experience',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           { to: "about", label: "About", position: "left" },
@@ -123,6 +123,10 @@ const config = {
               {
                 label: 'Linktree',
                 href: 'https://linktr.ee/nathanpatrick',
+              },
+                            {
+                label: 'Resume',
+                href: './resume',
               },
             ],
           },

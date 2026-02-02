@@ -1,3 +1,11 @@
+---
+id: drones
+title: Drones
+description: My experience in drones
+slug: /drones
+sidebar_position: 3
+---
+
 # Drones
 
 Currently Remote Pilot Certified. Got certified over Summer 2024. Had a DJI Mini 2, but upgraded to DJI Air 2 (with accessories). Has been a fantastic drone, no problems and has captured many awesome photos.

@@ -1,15 +1,18 @@
 # iPhone on Android (Nova Launcher Setup)
 
-## Compare
-
- 
-![Android](https://github.com/grpchatdstryr/Nova-Launcher/blob/main/images/Android.png?raw=true) ![iPhone](https://raw.githubusercontent.com/grpchatdstryr/Nova-Launcher/main/images/iPhone.png)
-
 
 
 ## What is this?
 
 Do you like iOS but without the iPhone? Well, you can use an app called Nova Launcher to make your Android look like an iPhone. That way, you can enjoy the perks of Android, while having a better look. 
+
+<!-- truncate -->
+
+## Compare
+
+ ![Android](https://github.com/grpchatdstryr/Nova-Launcher/blob/main/images/Android.png?raw=true) ![iPhone](https://raw.githubusercontent.com/grpchatdstryr/Nova-Launcher/main/images/iPhone.png)
+
+
 
 ## Instructions
 

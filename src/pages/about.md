@@ -13,4 +13,4 @@ Recent college graduate with a degree in Information Technology and a minor in I
 
 
 ## This Website
-Just a way to consolidate all the experience and stuff. Hope you enjoy!
+Just a way to consolidate all my experience and activites. Hope you enjoy!

@@ -1,3 +1,11 @@
+---
+id: my-gear
+title: My Gear
+description: My equipment 
+slug: /my-gear
+sidebar_position: 6
+---
+
 # My Gear
 All the equipment I use relating to the creative arts. 
 

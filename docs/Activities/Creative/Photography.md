@@ -1,3 +1,11 @@
+---
+id: photography
+title: Photography
+description: My experience in photography
+slug: /photography
+sidebar_position: 0
+---
+
 # Photography
 
 I love photography and have been been interested in it since high school. Can find some of my photography on [Instagram](https://www.instagram.com/nathanp_media/). I specifically like taking pictures of nature, buildings, cats, and more. Currently shoot with my S22 Ultra phone using the built in Expert RAW App. 

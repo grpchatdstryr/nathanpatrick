@@ -1,3 +1,11 @@
+---
+id: information-technology
+title: Information Technology
+description: My knowlegde in IT
+slug: /information-technology
+sidebar_position: 0
+---
+
 # Information Technology
 
 A collection of the tools, systems, and technologies I’ve worked with. Most of this comes from hands-on learning, personal projects, and real setups I’ve built, broken, and rebuilt. I like experimenting with different environments and documenting what I learn along the way. Can find some on my [my GitHub](https://github.com/grpchatdstryr).

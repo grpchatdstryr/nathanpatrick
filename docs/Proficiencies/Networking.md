@@ -1,3 +1,11 @@
+---
+id: networking
+title: Networking
+description: My knowlegde of networking
+slug: /networking
+sidebar_position: 3
+---
+
 # Networking
 Completed four college-level networking courses covering routing, switching, subnetting, VLANs, wireless fundamentals, and network security.
 

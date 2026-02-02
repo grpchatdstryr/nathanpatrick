@@ -1,6 +1,8 @@
 # Windows 11 Installation Guide
 Windows is the most popular operating system in the world. It’s used by businesses, schools, and individuals all over the globe. But over time, Windows has gotten more and more spooky. There’s more data collection, tracking, and advertisements than ever before. Also bloat has plagued the OS for ages which slows everything down, drains battery, and clogs the experience. Fear not, there is hope! In this guide, I’ll show you how to install Windows 11 the _Alpha Way_. That way you can be a complete Windows Chad.
 
+<!-- truncate -->
+
 ## Fresh Install
 
 Download Windows!   To make this more streamlined you will want to install a fresh copy of windows using a bootable USB. 

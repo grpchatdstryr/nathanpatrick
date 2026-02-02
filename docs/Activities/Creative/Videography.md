@@ -1,3 +1,11 @@
+---
+id: videography
+title: Videography
+description: My experience in videography
+slug: /videography
+sidebar_position: 1
+---
+
 # Videography
 Have edited multiple music videos for friends and for fun. Currently use DaVinci Resolve, but have used Premier Pro in the past. Mainly shoot video from my phone.
 

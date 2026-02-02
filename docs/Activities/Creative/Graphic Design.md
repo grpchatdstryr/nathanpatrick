@@ -1,3 +1,11 @@
+---
+id: graphic-design
+title: Graphic Design
+description: My experience in graphic design
+slug: /graphic-design
+sidebar_position: 2
+---
+
 # Graphic Design
 
 Use Affinity Designer and Photo for my current designs. Used to use Adobe suite when it was free for students including Photoshop, Lightroom, and a small bit of InDesign. Mainly do graphic design for fun [[Shenanigans]]. Below are some of my projects.

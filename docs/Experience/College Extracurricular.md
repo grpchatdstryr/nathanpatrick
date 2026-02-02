@@ -1,8 +1,13 @@
-# College Clubs
+---
+id: college-activities
+title: College Activities
+description: All my college activities
+slug: /college-activities
+sidebar_position: 4
+---
+
+# My College Activities
 During my time in college, I dedicated my free time to participating in various clubs and extracurricular activities. These experiences allowed me to develop technical skills, leadership abilities, and teamwork, while also exploring personal interests and staying engaged on campus.
-
-
-### Activities
 
 **Cybersecurity Club**  
 Active member of the Cybersecurity Club, where I focused on learning general cybersecurity, network security, ethical hacking, and defensive security. Participated in workshops and challenges to apply technical knowledge in practical scenarios.

@@ -1,6 +1,8 @@
 # Windows Shortcuts
 I use shortcuts every day. They have changed my keyboard and trackpad experience. From easier Windows navigation to working with text, shortcuts can make your PC life much smoother.
 
+<!-- truncate -->
+
 ## General Windows Navigation
 
 \[Win + , ]  Preview the desktop

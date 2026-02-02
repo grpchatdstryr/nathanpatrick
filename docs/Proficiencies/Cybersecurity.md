@@ -1,3 +1,11 @@
+---
+id: cybersecurity
+title: Cybersecurity
+description: My knowlegde in Cybersecurity
+slug: /cybersecurity
+sidebar_position: 1
+---
+
 # Cybersecurity
 A mix of formal classes, self-directed training, and hands-on experience in cybersecurity, networking, and technical problem solving. Most of my learning has been through a combination of courses, teams, and personal practice.
 
