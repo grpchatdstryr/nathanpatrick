@@ -126,7 +126,7 @@ const config = {
               },
                             {
                 label: 'Resume',
-                href: './resume',
+                href: '/resume',
               },
             ],
           },
