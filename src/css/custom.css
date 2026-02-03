@@ -6,7 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #0086d3;
+  --ifm-color-primary: #18c9b1;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -38,7 +38,7 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #a76dcb;
+  --ifm-color-primary: #24ddc4;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
   --ifm-color-primary-darkest: #1a8870;
@@ -65,12 +65,15 @@
 
 /* Remove Emoji Icons from Cards */
 .card h2 {
-  font-size: 0; /* Hides the emoji and the space */
+  font-size: 0;
+  /* Hides the emoji and the space */
 }
 
 .card h2::after {
-  content: attr(title); /* Pulls the clean title text */
-  font-size: 1.25rem;    /* Restores the original font size */
+  content: attr(title);
+  /* Pulls the clean title text */
+  font-size: 1.25rem;
+  /* Restores the original font size */
   visibility: visible;
   display: block;
 }
@@ -108,9 +111,7 @@
   --docsearch-hit-background: var(--ifm-color-emphasis-100);
   /* Footer */
   --docsearch-footer-background: var(--ifm-background-surface-color);
-  --docsearch-key-gradient: linear-gradient(
-    -26.5deg,
-    var(--ifm-color-emphasis-200) 0%,
-    var(--ifm-color-emphasis-100) 100%
-  );
+  --docsearch-key-gradient: linear-gradient(-26.5deg,
+      var(--ifm-color-emphasis-200) 0%,
+      var(--ifm-color-emphasis-100) 100%);
 }

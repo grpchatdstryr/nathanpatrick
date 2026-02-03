@@ -8,20 +8,32 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="https://linktr.ee/nathanpatrick"> 
-            My Links
-          </Link>
+        <div className={styles.heroContent}>
+          <Heading as="h1" className={styles.heroTitle}>
+            {siteConfig.title}
+          </Heading>
+          <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
+          <div className={styles.buttons}>
+            <Link
+              className={clsx('button button--primary button--lg', styles.heroButton, styles.primaryButton)}
+              to="/resume">
+              View Resume
+            </Link>
+            <Link
+              className={clsx('button button--outline button--primary button--lg', styles.heroButton, styles.secondaryButton)}
+              to="/blog">
+              Read Blog
+            </Link>
+            <Link
+              className={clsx('button button--outline button--primary button--lg', styles.heroButton, styles.secondaryButton)}
+              to="/about">
+              About Me
+            </Link>
+          </div>
         </div>
       </div>
     </header>
@@ -29,7 +41,7 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title={`Home `}

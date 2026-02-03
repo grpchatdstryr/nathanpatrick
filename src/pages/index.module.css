@@ -4,15 +4,70 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 8rem 2rem;
   text-align: center;
   position: relative;
   overflow: hidden;
+  background: linear-gradient(135deg, #06D6A0 0%, #1B9AAA 50%, #118AB2 100%);
+  background-size: 200% 200%;
+  animation: gradientShift 15s ease infinite;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
+[data-theme='dark'] .heroBanner {
+  background: linear-gradient(135deg, #0A4D3C 0%, #0F5F5C 30%, #0B3D5D 100%);
+  background-size: 200% 200%;
+  animation: gradientShift 15s ease infinite;
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.heroContent {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.heroTitle {
+  font-size: 4.5rem;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+  color: #ffffff;
+  text-shadow: 0 3px 15px rgba(0, 0, 0, 0.25);
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  animation: fadeInUp 0.8s ease-out;
+}
+
+.heroSubtitle {
+  font-size: 1.5rem;
+  margin-bottom: 3rem;
+  color: rgba(255, 255, 255, 0.95);
+  font-weight: 400;
+  line-height: 1.6;
+  text-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+  animation: fadeInUp 0.8s ease-out 0.2s backwards;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 
@@ -20,4 +75,112 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  animation: fadeInUp 0.8s ease-out 0.4s backwards;
+}
+
+.heroButton {
+  padding: 0.75rem 2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 50px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  border: 2px solid transparent;
+}
+
+.primaryButton {
+  background: #ffffff;
+  color: #118AB2;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+}
+
+.primaryButton:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(255, 255, 255, 0.4), 0 0 30px rgba(255, 255, 255, 0.5);
+  background: #f5f5f5;
+  color: #0F7A9D;
+}
+
+.secondaryButton {
+  background: transparent;
+  border-color: rgba(255, 255, 255, 0.8);
+  color: #ffffff;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+}
+
+.secondaryButton:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(255, 255, 255, 0.3), 0 0 25px rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.15);
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+/* Dark mode button adjustments */
+[data-theme='dark'] .primaryButton {
+  background: #1B9AAA;
+  color: #ffffff;
+  box-shadow: 0 0 20px rgba(27, 154, 170, 0.4);
+}
+
+[data-theme='dark'] .primaryButton:hover {
+  background: #158895;
+  color: #ffffff;
+  box-shadow: 0 8px 25px rgba(27, 154, 170, 0.5), 0 0 35px rgba(27, 154, 170, 0.6);
+}
+
+[data-theme='dark'] .secondaryButton {
+  border-color: rgba(27, 154, 170, 0.6);
+  color: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 0 15px rgba(27, 154, 170, 0.3);
+}
+
+[data-theme='dark'] .secondaryButton:hover {
+  background: rgba(27, 154, 170, 0.2);
+  border-color: #1B9AAA;
+  color: #ffffff;
+  box-shadow: 0 8px 25px rgba(27, 154, 170, 0.4), 0 0 30px rgba(27, 154, 170, 0.5);
+}
+
+/* Mobile Responsive */
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 5rem 1.5rem;
+  }
+
+  .heroTitle {
+    font-size: 2.8rem;
+  }
+
+  .heroSubtitle {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+
+  .buttons {
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+  }
+
+  .heroButton {
+    width: 100%;
+    max-width: 320px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .heroBanner {
+    padding: 4rem 1rem;
+  }
+
+  .heroTitle {
+    font-size: 2.2rem;
+  }
+
+  .heroSubtitle {
+    font-size: 1.1rem;
+  }
 }
