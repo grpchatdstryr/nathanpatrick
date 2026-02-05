@@ -4,29 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Personal Website',
+    title: 'Technical Expertise',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Website dedicated to helping you get started with the trumpet.
+        Experienced in software development, cloud infrastructure, and system design.
+        Building scalable solutions with modern technologies.
       </>
     ),
   },
   {
-    title: 'Blog Site',
+    title: 'Projects & Portfolio',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Goal to motivate and become passionate about the instrument, not making it burdensome.
+        Check out my projects and contributions. From web applications to
+        infrastructure automation, exploring innovative solutions.
       </>
     ),
   },
   {
-    title: 'Other Links',
+    title: 'Continuous Learning',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        A passion project, built to assist fellow trumpet players and have fun, not to make money.
+        Passionate about learning new technologies and sharing knowledge.
+        Documenting my journey through blog posts and technical articles.
       </>
     ),
   },

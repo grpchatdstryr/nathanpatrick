@@ -38,15 +38,15 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #24ddc4;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #20c9b8;
+  --ifm-color-primary-dark: #1cb5a5;
+  --ifm-color-primary-darker: #1aac9d;
+  --ifm-color-primary-darkest: #158e81;
+  --ifm-color-primary-light: #34d1c1;
+  --ifm-color-primary-lighter: #3dd4c4;
+  --ifm-color-primary-lightest: #5eddd0;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-  --ifm-background-color: #1b1b1d;
+  --ifm-background-color: #0f1419;
 }
 
 /** For readability concerns, you should choose a lighter palette in dark mode. 
@@ -114,4 +114,90 @@
   --docsearch-key-gradient: linear-gradient(-26.5deg,
       var(--ifm-color-emphasis-200) 0%,
       var(--ifm-color-emphasis-100) 100%);
+}
+
+/* Navbar Item Styling with Subtle Glow on Hover */
+.navbar__link {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Light mode navbar items - subtle glow */
+[data-theme='light'] .navbar__link:hover,
+[data-theme='light'] .navbar__link--active {
+  text-shadow: 0 0 12px rgba(17, 138, 178, 0.4), 0 0 24px rgba(17, 138, 178, 0.2);
+}
+
+/* Dark mode navbar items - subtle glow */
+[data-theme='dark'] .navbar__link:hover,
+[data-theme='dark'] .navbar__link--active {
+  text-shadow: 0 0 12px rgba(32, 201, 184, 0.6), 0 0 24px rgba(32, 201, 184, 0.4);
+}
+
+/* Navbar brand (Nathan Patrick title) with subtle glow */
+.navbar__title {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+[data-theme='light'] .navbar__brand:hover .navbar__title {
+  text-shadow: 0 0 12px rgba(17, 138, 178, 0.4), 0 0 24px rgba(17, 138, 178, 0.2);
+}
+
+[data-theme='dark'] .navbar__brand:hover .navbar__title {
+  text-shadow: 0 0 12px rgba(32, 201, 184, 0.6), 0 0 24px rgba(32, 201, 184, 0.4);
+}
+
+/* Footer Link Styling with Subtle Glow on Hover */
+.footer__link-item {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Light mode footer links - subtle glow */
+[data-theme='light'] .footer__link-item:hover {
+  text-shadow: 0 0 12px rgba(17, 138, 178, 0.4), 0 0 24px rgba(17, 138, 178, 0.2);
+}
+
+/* Dark mode footer links - subtle glow */
+[data-theme='dark'] .footer__link-item:hover {
+  text-shadow: 0 0 12px rgba(32, 201, 184, 0.6), 0 0 24px rgba(32, 201, 184, 0.4);
+}
+
+/* Footer title styling */
+.footer__title {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+[data-theme='light'] .footer__title:hover {
+  text-shadow: 0 0 12px rgba(17, 138, 178, 0.4), 0 0 24px rgba(17, 138, 178, 0.2);
+}
+
+[data-theme='dark'] .footer__title:hover {
+  text-shadow: 0 0 14px rgba(34, 224, 205, 0.65), 0 0 28px rgba(34, 224, 205, 0.4);
+}
+
+/* Footer Background Styling */
+.footer {
+  background: linear-gradient(135deg, #0a0f14 0%, #0d1419 50%, #0a1015 100%) !important;
+  border-top: 1px solid rgba(34, 224, 205, 0.15);
+}
+
+[data-theme='light'] .footer {
+  background: linear-gradient(135deg, #eef8fa 0%, #dff2f6 50%, #e8f6f9 100%) !important;
+  border-top: 2px solid rgba(17, 138, 178, 0.3);
+}
+
+[data-theme='light'] .footer__link-item {
+  color: #0b6178 !important;
+}
+
+[data-theme='light'] .footer__link-item:hover {
+  color: #118AB2 !important;
+}
+
+[data-theme='light'] .footer__title {
+  color: #0d7a95 !important;
+  font-weight: 600;
+}
+
+[data-theme='light'] .footer__copyright {
+  color: rgba(11, 97, 120, 0.6) !important;
 }

@@ -18,7 +18,7 @@
 }
 
 [data-theme='dark'] .features {
-  background: #1b1b1d;
+  background: #0f1419;
 }
 
 .featureCard {
@@ -45,9 +45,9 @@
 
 /* Dark mode cards */
 [data-theme='dark'] .featureCard {
-  background: rgba(45, 45, 60, 0.4);
-  border: 1px solid rgba(27, 154, 170, 0.2);
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+  background: rgba(20, 35, 45, 0.6);
+  border: 1px solid rgba(32, 201, 184, 0.25);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
 }
 
 /* Gradient border effect on hover */
@@ -63,13 +63,14 @@
   background: linear-gradient(135deg, #06D6A0, #1B9AAA, #118AB2);
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   mask-composite: exclude;
   opacity: 0;
   transition: opacity 0.4s ease;
 }
 
 [data-theme='dark'] .featureCard::before {
-  background: linear-gradient(135deg, #1B9AAA, #118AB2, #06D6A0);
+  background: linear-gradient(135deg, #20c9b8, #1888d6, #0de6b8);
 }
 
 .featureCard:hover {
@@ -78,7 +79,7 @@
 }
 
 [data-theme='dark'] .featureCard:hover {
-  box-shadow: 0 20px 60px rgba(27, 154, 170, 0.35), 0 0 50px rgba(27, 154, 170, 0.2);
+  box-shadow: 0 20px 60px rgba(32, 201, 184, 0.4), 0 0 50px rgba(32, 201, 184, 0.25);
 }
 
 .featureCard:hover::before {
@@ -108,7 +109,7 @@
 }
 
 [data-theme='dark'] .iconWrapper::before {
-  background: radial-gradient(circle, rgba(27, 154, 170, 0.2) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(32, 201, 184, 0.25) 0%, transparent 70%);
 }
 
 .featureCard:hover .iconWrapper {
@@ -127,7 +128,7 @@
 }
 
 [data-theme='dark'] .featureSvg {
-  filter: drop-shadow(0 4px 12px rgba(27, 154, 170, 0.3));
+  filter: drop-shadow(0 4px 12px rgba(32, 201, 184, 0.35));
 }
 
 .featureCard:hover .featureSvg {
@@ -135,7 +136,7 @@
 }
 
 [data-theme='dark'] .featureCard:hover .featureSvg {
-  filter: drop-shadow(0 8px 20px rgba(27, 154, 170, 0.5));
+  filter: drop-shadow(0 8px 20px rgba(32, 201, 184, 0.55));
 }
 
 .featureContent {
@@ -151,7 +152,7 @@
 }
 
 [data-theme='dark'] .featureTitle {
-  color: #1B9AAA;
+  color: #20c9b8;
 }
 
 .featureCard:hover .featureTitle {
@@ -159,7 +160,7 @@
 }
 
 [data-theme='dark'] .featureCard:hover .featureTitle {
-  color: #20B4C4;
+  color: #2ae0cc;
 }
 
 .featureDescription {

@@ -19,7 +19,7 @@ function HomepageHeader() {
           <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
-              className={clsx('button button--primary button--lg', styles.heroButton, styles.primaryButton)}
+              className={clsx('button button--outline button--primary button--lg', styles.heroButton, styles.secondaryButton)}
               to="/resume">
               View Resume
             </Link>
@@ -45,7 +45,7 @@ export default function Home() {
   return (
     <Layout
       title={`Home `}
-      description="Website dedicated to learning, exploring, and enjoying the art of the trumpet.">
+      description="Personal professional website and blog by Nathan Patrick. Sharing technical expertise, projects, and insights.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
