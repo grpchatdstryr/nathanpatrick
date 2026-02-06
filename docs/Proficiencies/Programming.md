@@ -1,12 +1,14 @@
 ---
 id: programming
 title: Programming
-description: My knowlegde in programming
-slug: /programming
+description: My knowlegde in software development
+slug: /software-development
 sidebar_position: 4
 ---
 
-# Programming
+# Software Development
+
+### Languages
 Foundational understanding of Python, C++, Java, SQL, HTML/CSS, and Bash. Gained experience through a combination of college coursework, high-school classes, and independent online learning. Able to build small applications, debug code efficiently, and adapt to new languages or frameworks as needed.
 
 ### WordPress

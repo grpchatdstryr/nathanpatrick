@@ -1,24 +1,10 @@
 facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+  label: Technology
+  permalink: /technology
+  description: Related to technology
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
 
 trumpet:
-  label: Trumpet
-  permalink: /trumpet
-  description: The trumpet instrument
+  label: Linux
+  permalink: /linux
+  description: The Linux operating system

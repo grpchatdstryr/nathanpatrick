@@ -1,3 +1,12 @@
+---
+id: music
+title: Music
+description: Everything related to music
+slug: /music
+sidebar_position: 2
+---
+
+
 
 Trumpet
 Band(s)

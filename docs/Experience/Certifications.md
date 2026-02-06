@@ -1,13 +1,14 @@
 ---
 id: certications
 title: Certifications
-description: Certifications I have obtained
+description: Industry certifications I have obtained
 slug: /certifications
 sidebar_position: 1
 ---
 
 # Certifications
-*A list of all the industry certifications I have obtained.*
+
+### Technical
 
 **CompTIA Security+**
 Issued Jun 2024    
@@ -33,6 +34,8 @@ Issued Oct 2025
 Issued Jun 2024
 [See credential](https://www.credly.com/badges/8d5dc4e4-feef-452a-8c32-a69b5ea414a6/public_url?trk=public_profile_see-credential)
 
+### Non-technical
+
 **Remote Pilot Certification**
 From *Federal Aviation Administration* 
 Issued Jun 2024
@@ -41,6 +44,9 @@ Issued Jun 2024
 From *Merrifield Garden Center*
 Issued Jun 2022
 
+**Rat Tickling**
+From *Purdue University*
+Issued Aug 2025 
 
 
 

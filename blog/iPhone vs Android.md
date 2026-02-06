@@ -1,6 +1,11 @@
+---
+title: iPhone on Android
+date: 2024-09-23
+authors: nathanpatrick
+tags: [technology]
+---
+
 # iPhone on Android (Nova Launcher Setup)
-
-
 
 ## What is this?
 

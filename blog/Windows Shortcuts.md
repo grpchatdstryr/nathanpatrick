@@ -1,4 +1,11 @@
-# Windows Shortcuts
+---
+title: Windows Shortcuts
+date: 2024-09-23
+authors: nathanpatrick
+tags: [technology]
+---
+
+### Overview
 I use shortcuts every day. They have changed my keyboard and trackpad experience. From easier Windows navigation to working with text, shortcuts can make your PC life much smoother.
 
 <!-- truncate -->

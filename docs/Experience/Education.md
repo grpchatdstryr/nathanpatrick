@@ -1,7 +1,7 @@
 ---
 id: education
 title: Education
-description: My education journey 
+description: Formal and informal education 
 slug: /education
 sidebar_position: 0
 ---

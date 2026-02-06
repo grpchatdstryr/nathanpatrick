@@ -1,7 +1,11 @@
+---
+title: Homelab Documentation
+date: 2024-09-23
+authors: nathanpatrick
+tags: [technology, linux]
+---
+
 # Homelab Documentation
-
-This is a general overview of my Homelab setup.
-
 
 ## Equipment
 

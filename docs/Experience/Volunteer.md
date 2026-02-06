@@ -1,7 +1,7 @@
 ---
 id: volunteer-work
 title: Volunteer Work
-description: My volunteer work
+description: Volunteer work I took part in
 slug: /volunteer-work
 sidebar_position: 4
 ---

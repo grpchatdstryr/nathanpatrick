@@ -20,8 +20,8 @@ function HomepageHeader() {
           <div className={styles.buttons}>
             <Link
               className={clsx('button button--outline button--primary button--lg', styles.heroButton, styles.secondaryButton)}
-              to="/resume">
-              View Resume
+              to="/docs/category/experience">
+              Experience
             </Link>
             <Link
               className={clsx('button button--outline button--primary button--lg', styles.heroButton, styles.secondaryButton)}

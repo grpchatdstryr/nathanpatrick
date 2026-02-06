@@ -1,14 +1,12 @@
 ---
 id: job-experience
 title: Job Experience
-description: My job experience
+description: My work experience
 slug: /job-experience
 sidebar_position: 2
 ---
 
 # My Job Experience
-Real world experience. 
-
 
 ### Cybersecurity Engineer
 [CloudFit Software](https://cloudfitsoftware.com/)

@@ -1,7 +1,7 @@
 ---
 id: personal-projects
 title: Personal Projects
-description: All my personal projects
+description: What I do in my free time
 slug: /personal-projects
 sidebar_position: 3
 ---

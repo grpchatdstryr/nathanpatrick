@@ -1,9 +1,19 @@
+---
+id: eagle-scout-project
+title: Eagle Scout Project
+description: My Eagle Scout Project details
+slug: /eagle-scout-project
+sidebar_position: 1
+---
 
-# My Project
+
+# Eagle Scout Project
+
+### Overview
 To achieve the rank of **Eagle Scout**, a **large-scale project** must be completed. I decided to help a **church** with **property maintenance**. Project had **four stages** and took **over 280 man hours**. Completed over the course of **5 months**. 
 
 
-## 4 Parts, Each Significant
+## 4 Parts
 ### 1) Improve 215 Yard Nature Trail
 
 At the church, there is a community nature trail used by the church, scouts, and locals to enjoy the outdoors. Trail was neglected, needed to be relined, and cleaned up.
@@ -21,18 +31,17 @@ The church owns an acre of woods that contains the nature trail which needed a g
 Along the street to the parking lot there was a small, extremely packed strip of weeds, vines, and thorns that had not been taken care of for years. Took 3 work days to clear.	
 
 
-___
 # The Impact
 The church members, scouts, and even the community now has access to the nature trail and can enjoy a nice walk.
-##### Safer
+### Safer
 Makes the outdoor property significantly safer. With dead standing trees, dangerous weeds, and other tripping hazards gone, the church can use their outdoor chapel again and take advantage of the nature trail with confidence.
 0620201252a
-##### Give Back
+### Give Back
 The church allows our troop to have meetings in their building every week. It made sense to pick a project that benefited the church allowing us to keep our troop running.
-##### Lively
+### Lively
 Also makes the church more presentable and attractive for current and future members of the church.
 
-___
+
 # Hard Work Pays Off
 
 Here are some before and after pictures:
@@ -40,8 +49,6 @@ Here are some before and after pictures:
 *Insert Pictures Here*
 
 Was the longest lasting project of my troop with over 5 months of planning and 2.5 months of actual project work. Planning delayed 12 weeks due to the COVID-19 outbreak. Took over 280 total man hours, 10 separate work days and created 4 separate 25x20ft+ giant brush piles.
-
-
 
 # Leadership
 
