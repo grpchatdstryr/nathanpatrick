@@ -168,7 +168,7 @@ const config = {
               },
               {
                 label: 'Website V1',
-                href: 'https://nathanpatrick.net/',
+                href: 'https://web.archive.org/web/20250520031509/https://nathanpatrick.net/',
               },
             ],
           },

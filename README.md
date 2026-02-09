@@ -2,8 +2,8 @@
 
 Personal professional website based on [other website](https://trumpetcentral.org) in the works.
 
-Technically version 3 of a personal website, [version 1](https://nathanpatrick.net) and [version 2](https://nathanpatrick.org) can be found in their respective links. 
+Technically version 3 of a personal website, [version 1](https://web.archive.org/web/20250520031509/https://nathanpatrick.net/) and [version 2](https://nathanpatrick.org) can be found in their respective links. 
 
 More coming soon...
 
-[Current Link](https://nathanpatrick.pages.dev)
+[Current Link](https://dev.nathanpatrick.net)

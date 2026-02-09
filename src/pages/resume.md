@@ -6,21 +6,22 @@ slug: /resume
 ---
 
 # My Resume
-Lynchburg, Virginia | *Email Address* | Portfolio: www.linktr.ee/nathanpatrick
+Lynchburg, Virginia | Portfolio: www.linktr.ee/nathanpatrick
 
 
 ___
 ## EDUCATION
-**Bachelor of Science - Information Technology: Data Networking and Security**  |  May 2025
-**Minor - Information Security**
-[Liberty University](https://www.liberty.edu/) – [Lynchburg, VA](https://www.google.com/maps/place/Lynchburg,+VA/@37.4010817,-79.2606567,26475m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89b2d97890320401:0xc3b6f35ec820e261!8m2!3d37.4148819!4d-79.1422071!16zL20vMG1uazc?entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D)
-GPA: 3.85, *Summa Cum Laude*, *Dean’s List: Fall 2021 - Spring 2025*
+**Bachelor of Science - Information Technology: Data Networking and Security**  |  May 2025  
+**Minor - Information Security**  
+[Liberty University](https://www.liberty.edu/) – [Lynchburg, VA](https://www.google.com/maps/place/Lynchburg,+VA/@37.4010817,-79.2606567,26475m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89b2d97890320401:0xc3b6f35ec820e261!8m2!3d37.4148819!4d-79.1422071!16zL20vMG1uazc?entry=ttu&g_ep=EgoyMDI1MDUxNS4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D)  
+GPA: 3.85, *Summa Cum Laude*  
+*Dean’s List: Fall 2021 - Spring 2025*
 ___
 ## CERTIFICATIONS
 [Security+](https://www.credly.com/badges/a0286461-bc98-410d-a91f-07e6438a2a45/public_url?trk=public_profile_see-credential), [Network+](https://www.credly.com/badges/5639e4be-c6e4-462d-b8b4-45fa4171c75e/public_url?trk=public_profile_see-credential), [Microsoft Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/NatePatrick-2156/631453BDF4CD9F8B?sharingId=CCD55D8CB947BFA6&trk=public_profile_see-credential), [Microsoft 365 Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/NatePatrick-2156/FB4AB0CCA4A1D29F?sharingId=CCD55D8CB947BFA6&trk=public_profile_see-credential), [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8d5dc4e4-feef-452a-8c32-a69b5ea414a6/public_url?trk=public_profile_see-credential), [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/users/nathanpatrick/credentials/d3b5fd823ec3ddb0?ref=https%3A%2F%2Fwww.linkedin.com%2F), Remote Pilot
 ___
 ## TECHNICAL SKILLS
-**General**: Linux, Cisco IOS, Python, C++, Java, T-SQL
+**General**: Linux, Cisco IOS, Python, C++, Java, T-SQL  
 **Microsoft**: Power BI, Azure, Microsoft 365 Admin Center, Windows
 ___
 ## WORK EXPERIENCE
@@ -54,14 +55,14 @@ ___
 - Configured and running two servers as a cluster using VMWare Suite (ESXI and vCenter), hosting Virtual Machines of various services. Continuously learning, implementing, and documenting new features. Writeup on GitHub. Migrated to Proxmox.
 ___
 ## LEADERSHIP EXPERIENCE
-**Eagle Scout**, Boy *Scouts of America Troop 1865*  -  January 2021
+**Eagle Scout**, Boy *Scouts of America Troop 1865*  -  January 2021  
 **Trumpet Squad Leader**, *James W. Robinson Secondary School Marching Band*  -  March – May 2021
 ___
 ## VOLUNTEER WORK
-**Next Generation for Christ Volunteer**  -  Summer 2024
-**CyberPatriot Mentor**  -  Spring 2023 - Spring 2024
-**Sports Broadcast Camera Operator**  -  Spring 2022 - Spring 2023
-**SGA Delegate**  -  Fall 2021 - Spring 2022
+**Next Generation for Christ Volunteer**  -  Summer 2024  
+**CyberPatriot Mentor**  -  Spring 2023 - Spring 2024  
+**Sports Broadcast Camera Operator**  -  Spring 2022 - Spring 2023  
+**SGA Delegate**  -  Fall 2021 - Spring 2022  
 
 
 
