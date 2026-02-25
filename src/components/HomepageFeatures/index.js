@@ -4,12 +4,11 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Technical Expertise',
+    title: 'Technical Experience',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Experienced in software development, cloud infrastructure, and system design.
-        Building scalable solutions with modern technologies.
+        Experience in information technology, cybersecurity, cloud, infrastructure, networking, software development and more.
       </>
     ),
   },
@@ -18,8 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Check out my projects and contributions. From web applications to
-        infrastructure automation, exploring innovative solutions.
+        Check out my projects and random side quests. Ranges from websites (like this) to documentation, meme pages, and more.
       </>
     ),
   },
@@ -28,8 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Passionate about learning new technologies and sharing knowledge.
-        Documenting my journey through blog posts and technical articles.
+        Passionate about the field and constantly learning new things. Too much to do, yet never enough to satisfy.
       </>
     ),
   },

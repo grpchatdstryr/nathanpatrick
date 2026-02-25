@@ -29,7 +29,6 @@ Air Force Association's National Youth Cyber Education Program
 Served various roles within Liberty University’s Production team for Men’s and Women’s D1-3 Hockey. Ran Cameras, Audio, Video, Replay, Graphics, and Technical Director.
 
 ### Boy Scouts & Eagle Scout Project
-[[Eagle Scout Project]] 
 Service through various merit badges, doing yard work, community service and other volunteer work. Also completed Eagle Scout project. Supported a local church with property maintenance. Had 4 stages, took over 280 man hours, and spanned 5 months. 
 
 ### LU Serve  (Liberty University)

@@ -8,15 +8,16 @@ sidebar_position: 2
 
 # My Job Experience
 
-### Cybersecurity Engineer
-[CloudFit Software](https://cloudfitsoftware.com/)
-June 2024 - Present
-Lynchburg, Virginia
+## Technical Work Experience
+### *Current* - Cybersecurity Engineer
+**[CloudFit Software](https://cloudfitsoftware.com/)**  
+June 2024 - Present  
+Lynchburg, Virginia 
 
 
 ### Lab Technician
-[Liberty University - School of Business](https://liberty.edu)
-Feb 2024 - May 2025 *(1 year, 4 months)*
+**[Liberty University - School of Business](https://liberty.edu)**  
+Feb 2024 - May 2025 *(1 year, 4 months)*  
 Lynchburg, Virginia
 
 **Job Duties**
@@ -25,8 +26,8 @@ Lynchburg, Virginia
 - Troubleshooted and supported the installation of various services and resolved a wide range of technical issues.
 
 ### Systems Engineer
-[Rugged Logic](https://ruggedlogic.com)
-Jun 2023 - Aug 2023 *(3 months)*
+**[Rugged Logic](https://ruggedlogic.com)**  
+Jun 2023 - Aug 2023 *(3 months)*  
 Chantilly, Virginia
 
 **Job Duties**
@@ -35,9 +36,11 @@ Chantilly, Virginia
 - Investigated IoT connectivity with various databases.  
 - Gained experience with Microsoft Power Platform (Power BI and Power Apps) and Microsoft Azure Portal.
 
+## Other Experience
+
 ### Dock Loader
-[Merrifield Garden Center](https://merrifieldgardencenter.com)
-May 2022 - Aug 2022 (4 months)
+**[Merrifield Garden Center](https://merrifieldgardencenter.com)**  
+May 2022 - Aug 2022 (4 months)  
 Fairfax, Virginia
 
 **Job Duties**
@@ -45,8 +48,8 @@ Fairfax, Virginia
 - Safely loaded products into customers’ vehicles and operated forklift (Certified).
 
 ### Busser
-[Villa Bella Italian Restaurant](https://www.villabellaristorante.com/)
-June 2021 - Aug 2021 (3 months)
+**[Villa Bella Italian Restaurant](https://www.villabellaristorante.com/)**  
+June 2021 - Aug 2021 (3 months)  
 Fairfax, Virginia
 
 **Job Duties**

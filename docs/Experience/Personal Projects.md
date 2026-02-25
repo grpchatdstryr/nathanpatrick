@@ -7,45 +7,42 @@ sidebar_position: 3
 ---
 
 # Personal Projects
-Part of how I learn and stay up to date is through personal projects. I prefer this learning method to reading text books, watch a professor yap through PowerPoint, etc... I also happen to really enjoy working on something that gives me a cool final outcome. So here is a list of various personal projects I have worked on. 
+Part of how I learn and stay current is through personal projects. I prefer this method to reading text books, listen to professors talk for hours, etc... and gives me hands on experience. I also really enjoy working on something that has an outcome or something I can show for. So here are the personal projects I have worked on and am proud of! 
 
-### Homelab (Version 1)  
-[[Homelab Documentation|Documentation]]
-[GitHub](https://github.com/grpchatdstryr/Homelab-Documentation)
+### Homelab Setup & Documentation - *Original*  
 
-This was my first full homelab setup. I spent a lot of time planning the network, setting up servers, and automating tasks. It taught me a lot about how different systems work together and gave me a reliable environment to test new tools. I also documented everything so I could share what I learned.
+*\<insert picture of VSphere/Proxmox setup\>*  
 
-### Homelab (Version 2)  
-*Coming Soon*
+[This (link to GitHub)](https://github.com/grpchatdstryr/Homelab-Documentation) was my first full homelab setup. I spent a lot of time planning the network, setting up servers, and automating tasks. It taught me a lot about how different systems work together and gave me a reliable environment to test new tools. I also documented everything so I could share what I learned.
 
-The next version of my homelab is in the works. I’m planning to make it more automated setup. It will be a chance to take what I learned from version 1 and improve it with better tools and smarter configurations.
+### Linux Projects
 
-### Linux Project  
-[[Linux Setup|Blog Page]]
-[GitHub](https://github.com/grpchatdstryr/Linux-Setup)
+*\<insert picture of Linux Setup\>*  
 
-This project is all about setting up and customizing Linux for my own setup. I worked on installing cool software, securing it, and making it easy to use. It’s a mix of practical setup and experimenting with new tools to see what works best.
+This [original (older) project](https://github.com/grpchatdstryr/Linux-Setup) project is all about setting up and customizing Linux for my own setup. I worked on installing cool software, securing it, and making it easy to use. It’s a mix of practical setup and experimenting with new tools to see what works best. Have an [updated GitHub project](https://github.com/grpchatdstryr/linux-setup-v2) for what I currently use.
 
-### Meme Website  
-[Link (rickroll.zip)](https://rickroll.zip)
+### Meme Website - *rickroll.zip*
 
-A small, goofy website I made for fun. Nothing serious, just a way to practice web development while creating something fun.
+*\<insert picture of rickroll.zip\>*  
+
+A small, [goofy internet lore meme](https://rickroll.zip) website I made for fun. Nothing serious, just a way to learn while creating something fun.
 
 ### Service Uptime Tracker  
-[Status Tracker Website](https://status.nathanpatrick.net)
 
-Uses a tool called Uptime Kuma and tracks the uptime of various services. Use discord as a SIEM when things happen using webhooks. 
+*\<insert picture of status website\>*  
+
+My [Uptime Tracker Website](https://status.nathanpatrick.net) for all my services uses a tool called Uptime Kuma and tracks the uptime of various services. Use [Google Cloud](https://cloud.google.com/) [Free Tier](https://cloud.google.com/free), discord as a SIEM, cloudflare tunnels for networking. 
 
 ### Capstone Individual Project  
-[Capstone Personal Project](https://capstone.nathanpatrick.net)
 
-My capstone project was a personal project for the nonprofit company we were supporting, acting as a central documentation source. Simple website to host the information they may need. 
+*\<insert picture of capstone project\>*  
+
+My [capstone project](https://capstone.nathanpatrick.net) was a personal project for the nonprofit company we were supporting, acting as a central documentation source. Simple website to host the information they may need. 
 
 ### This Website  
-[Homepage Website](https://nathanpatrick.org)
 
-Of course, this website itself is a project. Where I share my work, blog, and portfolio. It’s also a project that I’m frequently updating! 
+Of course, [this website](https://nathanpatrick.net) itself is a project. Where I share my work, blog, and portfolio. It’s also a project that I’m frequently updating! 
 
 ### Technical Blogs  
 
-Also have written about the projects I work on and what I learn along the way. Check the Blogs tab on [My Website](https://nathanpatrick.org) 
+Also have written about the projects I work on and what I learn along the way. Check the [Blogs tab](https://nathanpatrick.net/blog) on this website!
