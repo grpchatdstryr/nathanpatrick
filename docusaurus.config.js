@@ -138,16 +138,16 @@ const config = {
                 href: 'https://trumpetcentral.org/',
               },
               {
-                label: 'Website Source Code',
-                href: 'https://github.com/grpchatdstryr/nathanpatrick/',
+                label: 'Capstone Website',
+                href: 'https://capstone.nathanpatrick.net/',
               },
               {
                 label: 'Status Tracker',
                 href: 'https://status.nathanpatrick.net/',
               },
               {
-                label: 'Capstone Website',
-                href: 'https://capstone.nathanpatrick.net/',
+                label: 'Project 46',
+                href: 'https://project46.nathanpatrick.net/',
               },
             ],
           },
