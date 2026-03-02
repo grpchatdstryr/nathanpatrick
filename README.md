@@ -1,6 +1,6 @@
 ### Nathan Patrick Website
 
-[Personal professional](https://dev.nathanpatrick.net) website based on my [other website](https://trumpetcentral.org) in the works.
+[Personal professional](https://nathanpatrick.net) website based on my [other website](https://trumpetcentral.org) in the works.
 
 ![Homescreen screenshot](/static/img/homescreen.png)
 
