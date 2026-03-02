@@ -182,12 +182,12 @@ const config = {
 
     algolia: {
       // The application ID provided by Algolia
-      appId: 'KBYGMT9VC2',
+      appId: 'T3Z7ZVQ3L3',
 
       // Public API key: it is safe to commit it
-      apiKey: '1750c14047829bdd25705d5e5b1725e1',
+      apiKey: '7a9e65db1a892a5ef555a9685aa7fbd8',
 
-      indexName: 'nathan_patrick_pages',
+      indexName: 'Personal Website',
 
       // Optional: see doc section below
       contextualSearch: true,

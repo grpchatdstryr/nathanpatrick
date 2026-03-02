@@ -1,6 +1,6 @@
 ---
-id: programming
-title: Programming
+id: software-development
+title: Software Development
 description: My knowlegde in software development
 slug: /software-development
 sidebar_position: 4
