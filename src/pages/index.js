@@ -11,30 +11,55 @@ function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero', styles.heroBanner)}>
+      {/* Floating orbs */}
+      <div className={styles.orb + ' ' + styles.orb1} />
+      <div className={styles.orb + ' ' + styles.orb2} />
+      <div className={styles.orb + ' ' + styles.orb3} />
+      <div className={styles.orb + ' ' + styles.orb4} />
+
+      {/* Mesh grid overlay */}
+      <div className={styles.heroGrid} />
+
+      {/* Vignette */}
+      <div className={styles.heroVignette} />
+
       <div className="container">
         <div className={styles.heroContent}>
+          <div className={styles.heroBadge}>
+            <span className={styles.badgeDot} />
+            IT &amp; Security Professional
+          </div>
+
           <Heading as="h1" className={styles.heroTitle}>
             {siteConfig.title}
           </Heading>
           <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
-              className={clsx('button button--outline button--primary button--lg', styles.heroButton, styles.secondaryButton)}
+              className={clsx('button button--lg', styles.heroButton, styles.primaryButton)}
               to="/docs/category/experience">
               Experience
             </Link>
             <Link
-              className={clsx('button button--outline button--primary button--lg', styles.heroButton, styles.secondaryButton)}
+              className={clsx('button button--lg', styles.heroButton, styles.secondaryButton)}
               to="/blog">
               Read Blog
             </Link>
             <Link
-              className={clsx('button button--outline button--primary button--lg', styles.heroButton, styles.secondaryButton)}
+              className={clsx('button button--lg', styles.heroButton, styles.secondaryButton)}
               to="/about">
               About Me
             </Link>
           </div>
         </div>
+      </div>
+
+      {/* Scroll indicator */}
+      <div className={styles.scrollIndicator}>
+        <div className={styles.scrollMouse}>
+          <div className={styles.scrollWheel} />
+        </div>
+        <span>Scroll</span>
       </div>
     </header>
   );

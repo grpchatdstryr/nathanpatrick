@@ -32,10 +32,14 @@ const FeatureList = [
   },
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({ Svg, title, description, index }) {
   return (
-    <div className={clsx('col col--4', styles.featureCol)}>
+    <div
+      className={clsx('col col--4', styles.featureCol)}
+      style={{ '--stagger-delay': `${index * 0.15}s` }}
+    >
       <div className={styles.featureCard}>
+        <div className={styles.cardAccent} />
         <div className={styles.iconWrapper}>
           <Svg className={styles.featureSvg} role="img" />
         </div>
@@ -51,10 +55,18 @@ function Feature({ Svg, title, description }) {
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
+      <div className={styles.dotPattern} />
       <div className="container">
+        <div className={styles.sectionHeader}>
+          <span className={styles.sectionLabel}>Overview</span>
+          <h2 className={styles.sectionTitle}>What I&apos;m About</h2>
+          <p className={styles.sectionSubtitle}>
+            A snapshot of who I am and what I bring to the table.
+          </p>
+        </div>
         <div className="row">
           {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
+            <Feature key={idx} index={idx} {...props} />
           ))}
         </div>
       </div>
