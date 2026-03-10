@@ -25,11 +25,15 @@ function HomepageHeader() {
 
       <div className="container">
         <div className={styles.heroContent}>
-          <div className={styles.heroBadge}>
+          <a
+            href="https://status.nathanpatrick.net"
+            target="_blank"
+            rel="noopener noreferrer"
+            className={styles.heroBadge}
+          >
             <span className={styles.badgeDot} />
             Live
-          </div>
-
+          </a>
           <Heading as="h1" className={styles.heroTitle}>
             {siteConfig.title}
           </Heading>
