@@ -27,7 +27,7 @@ function HomepageHeader() {
         <div className={styles.heroContent}>
           <div className={styles.heroBadge}>
             <span className={styles.badgeDot} />
-            IT &amp; Security Professional
+            Live
           </div>
 
           <Heading as="h1" className={styles.heroTitle}>

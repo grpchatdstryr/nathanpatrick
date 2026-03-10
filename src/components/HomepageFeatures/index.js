@@ -59,9 +59,9 @@ export default function HomepageFeatures() {
       <div className="container">
         <div className={styles.sectionHeader}>
           <span className={styles.sectionLabel}>Overview</span>
-          <h2 className={styles.sectionTitle}>What I&apos;m About</h2>
+          <h2 className={styles.sectionTitle}>Website Overview</h2>
           <p className={styles.sectionSubtitle}>
-            A snapshot of who I am and what I bring to the table.
+            Just the purpose of what this is for and why.
           </p>
         </div>
         <div className="row">
